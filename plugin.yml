@@ -1,0 +1,5 @@
+author: matejkoo
+description: Makes apples drop
+main: main.java.org.matejko.plugin.Apples
+name: Apples
+version: 1
